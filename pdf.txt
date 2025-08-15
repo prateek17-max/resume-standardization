@@ -1,0 +1,23 @@
+Assignment 1: Resume Standardization – GenAI Use Case 
+
+Problem Statement 
+
+Build a Generative AI-based application that takes resumes in any format (PDF or 
+DOCX) and converts them into the given standardized resume format provided by us. 
+The application should: 
+
+
+• Accept resumes in .pdf /.docx formats. 
+• Extract all relevant information such as name, experience, education, skills, etc. 
+• Generate a new resume document strictly following the given standard template. 
+• Output the final resume in editable .docx format. 
+Key Evaluation Criteria 
+•    Accuracy and completeness of extracted resume information. 
+•    How well the final resume format matches the provided standard format. 
+•    Efficiency and optimization of LLM API calls (e.g., batching, context reuse, cost 
+control). 
+•    Scalability and modularity of the overall architecture. 
+Bonus Points 
+•        Ability to inject external instructions or tone guidelines (e.g., more formal vs. 
+casual phrasing) into the output resume. 
+•        Good working UI

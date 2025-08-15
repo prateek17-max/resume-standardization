@@ -1,0 +1,16 @@
+# Core dependencies
+streamlit>=1.24.0
+python-docx>=0.8.11
+docxtpl>=0.16.7
+pdfplumber>=0.10.2
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# API and Environment
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Utilities
+pathlib>=1.0.1
+numpy>=1.24.0
+pandas>=2.0.0
